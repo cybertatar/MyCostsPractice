@@ -14,6 +14,7 @@
 		BE0FAFE828E496980055E0AF /* MyCostsPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0FAFE728E496980055E0AF /* MyCostsPracticeTests.swift */; };
 		BE0FAFF228E496980055E0AF /* MyCostsPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0FAFF128E496980055E0AF /* MyCostsPracticeUITests.swift */; };
 		BE0FAFF428E496980055E0AF /* MyCostsPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0FAFF328E496980055E0AF /* MyCostsPracticeUITestsLaunchTests.swift */; };
+		BE0FB00128E49CD50055E0AF /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0FB00028E49CD50055E0AF /* AddView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		BE0FAFED28E496980055E0AF /* MyCostsPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyCostsPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE0FAFF128E496980055E0AF /* MyCostsPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCostsPracticeUITests.swift; sourceTree = "<group>"; };
 		BE0FAFF328E496980055E0AF /* MyCostsPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCostsPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BE0FB00028E49CD50055E0AF /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				BE0FAFD528E496960055E0AF /* MyCostsPracticeApp.swift */,
 				BE0FAFD728E496960055E0AF /* ContentView.swift */,
+				BE0FB00028E49CD50055E0AF /* AddView.swift */,
 				BE0FAFD928E496980055E0AF /* Assets.xcassets */,
 				BE0FAFDB28E496980055E0AF /* MyCostsPractice.entitlements */,
 				BE0FAFDC28E496980055E0AF /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				BE0FAFD828E496960055E0AF /* ContentView.swift in Sources */,
 				BE0FAFD628E496960055E0AF /* MyCostsPracticeApp.swift in Sources */,
+				BE0FB00128E49CD50055E0AF /* AddView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
